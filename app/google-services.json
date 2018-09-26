@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "738143105253",
+    "firebase_url": "https://whatsapp-70a6d.firebaseio.com",
+    "project_id": "whatsapp-70a6d",
+    "storage_bucket": "whatsapp-70a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738143105253:android:841eb564ede6eaf5",
+        "android_client_info": {
+          "package_name": "com.example.nicolaebogdan.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738143105253-ejmpcat4u7ttjv594mhv8bh6hlg7lfmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nicolaebogdan.whatsapp",
+            "certificate_hash": "ca77ef2ee0375ad64afd008aa29647a5437b7d84"
+          }
+        },
+        {
+          "client_id": "738143105253-4mj7hmai91v1vk7s2oprisechk1t46f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuUYLWwq8TAVVV6zfpAJVyvRxuBjbr_Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738143105253-4mj7hmai91v1vk7s2oprisechk1t46f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
